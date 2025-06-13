@@ -18,8 +18,8 @@
 }
 
 @font-face {
-  font-family: indigo-icons;      
-  src: url('../fonts/indigo-icons-400-normal.ttf') format('ttf');
+  font-family: Poppins-SemiBold;      
+  src: url('../fonts/poppins-semibold-400-normal.ttf') format('ttf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -27,8 +27,8 @@
 }
 
 @font-face {
-  font-family: Poppins-SemiBold;      
-  src: url('../fonts/poppins-semibold-400-normal.ttf') format('ttf');
+  font-family: indigo-icons;      
+  src: url('../fonts/indigo-icons-400-normal.ttf') format('ttf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
