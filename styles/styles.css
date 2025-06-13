@@ -56,17 +56,6 @@
 }
 
 @font-face {
-  font-family:"indigo-icons Fallback";
-  font-style:normal;
-  font-weight:400;
-  src:local("Arial");
-  ascent-override:93.75%;
-  descent-override:6.25%;
-  line-gap-override:0.00%;
-  size-adjust:100.00%;
-}
-
-@font-face {
   font-family:"Poppins-SemiBold Fallback";
   font-style:normal;
   font-weight:400;
@@ -75,6 +64,17 @@
   descent-override:30.28%;
   line-gap-override:8.65%;
   size-adjust:115.57%;
+}
+
+@font-face {
+  font-family:"indigo-icons Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:93.75%;
+  descent-override:6.25%;
+  line-gap-override:0.00%;
+  size-adjust:100.00%;
 }
 
 @font-face {
